@@ -84,6 +84,6 @@ function play(clickedId) {
 		}
 		if (boardFull === true){
 			alert(`Cat's game!`)
-	}
+  }
 }
 
